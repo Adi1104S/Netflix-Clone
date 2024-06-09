@@ -8,7 +8,7 @@ body{
     background-color: black;
 }
 .main{
-    background-image: url(assets/img/lg.jpg);
+    background-image: url(lg.jpg);
     background-position: center center;
     background-size: max(1200px,100vw);
     background-repeat: no-repeat;
